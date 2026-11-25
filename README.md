@@ -1,8 +1,8 @@
-# Programming Coursework
+# Python and VB Programming Projects
 
 Small practice exercises from my graduate course (GRT713). I keep them together here, apart from my main projects, which are listed on [my profile](https://github.com/Muhammad-Huzaifa-Shafique).
 
-The neural network assignments (a NumPy forward pass and backpropagation, ten Keras experiments on California housing prices, and ten CNN variations on CIFAR-10) are in their own repository: [Neural-Networks-Coursework](https://github.com/Muhammad-Huzaifa-Shafique/Neural-Networks-Coursework), with an [interactive walkthrough](https://muhammad-huzaifa-shafique.github.io/deep-learning.html).
+The neural network assignments (a NumPy forward pass and backpropagation, ten Keras experiments on California housing prices, and ten CNN variations on CIFAR-10) are in their own repository: [Neural-Networks-From-Scratch-to-CNNs](https://github.com/Muhammad-Huzaifa-Shafique/Neural-Networks-From-Scratch-to-CNNs), with an [interactive walkthrough](https://muhammad-huzaifa-shafique.github.io/deep-learning.html).
 
 This repository has source files only: no data, no build folders and no virtual environments. For the Visual Basic apps it has just the form code (`Form1.vb`), not the full Visual Studio projects.
 
